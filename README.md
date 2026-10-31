@@ -179,16 +179,17 @@ A Cosmos Bank case study exploring cloud computing concepts and cybersecurity co
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitanya-720&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3B5C&icon_color=FF3B5C&text_color=FFFFFF" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanya-720&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3B5C&icon_color=FF3B5C&text_color=FFFFFF" alt="GitHub statistics" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-720&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=FFFFFF" alt="Most used programming languages"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-720&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=FFFFFF" alt="Most used programming languages" />
 
 ### CONTRIBUTION ACTIVITY
 
 <img src="https://ghchart.rshah.org/FF3B5C/chaitanya-720" alt="GitHub contribution graph" width="100%"/>
 
 </div>
-
 ---
 
 ## `05` — CONNECT
