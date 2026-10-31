@@ -79,7 +79,7 @@ A Java game project demonstrating object-oriented programming and game developme
 
 <div align="center">
 
-[![Explore Code](https://img.shields.io/badge/EXPLORE_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720?tab=repositories)
+[![Explore Code](https://img.shields.io/badge/EXPLORE_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720/Bomberman)
 
 </div>
 
@@ -88,7 +88,7 @@ A Java game project demonstrating object-oriented programming and game developme
 
 <div align="center">
 
-<a href="https://github.com/chaitanya-720?tab=repositories">
+<a href=https://github.com/chaitanya-720/Bomberman>
 <img src="./assets/careernest.png" width="100%" alt="CareerNest career guidance application"/>
 </a>
 
@@ -107,7 +107,7 @@ An Android career guidance application designed to help students explore career 
 
 <div align="center">
 
-[![Explore Code](https://img.shields.io/badge/EXPLORE_CODE-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720?tab=repositories)
+[![Explore Code](https://img.shields.io/badge/EXPLORE_CODE-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720/CareerNest)
 
 </div>
 
