@@ -52,29 +52,29 @@ Hi! I'm **Chaitanya Muley**, a Diploma Computer Engineering student at Governmen
 
 ---
 
-## `03` — FEATURED PROJECTS
 
+## `03` — FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/yash4278-svg/Capstone-Project">
-<img src="./assets/neurodrive.png" width="100%" alt="NeuroDrive project"/>
+<a href="https://github.com/chaitanya-720?tab=repositories">
+<img src="./assets/neurodrive.png" width="100%" alt="Bomberman Java game"/>
 </a>
 
-<h3>🚗 NeuroDrive</h3>
+<h3>🎮 Bomberman</h3>
 
-Driver drowsiness detection and fleet safety monitoring.
+A Java game project focused on gameplay mechanics and object-oriented programming.
 
-- Camera-based driver monitoring
-- Blink and yawn analysis
-- Safety alerts and trip history
+- Player movement and game logic
+- Game objects and collision handling
+- Java programming practice
 
-**Stack:** Java • Android • ML Kit • IoT
+**Stack:** Java • OOP
 
-<a href="https://github.com/yash4278-svg/Capstone-Project">
-<img src="https://img.shields.io/badge/VIEW_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="View code"/>
+<a href="https://github.com/chaitanya-720?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Explore Bomberman code"/>
 </a>
 
 </td>
@@ -95,7 +95,7 @@ An Android career guidance application for students.
 **Stack:** Java • Android Studio
 
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="https://img.shields.io/badge/FIND_REPOSITORY-161616?style=for-the-badge&logo=github&logoColor=white" alt="Find repository"/>
+<img src="https://img.shields.io/badge/EXPLORE_CODE-161616?style=for-the-badge&logo=github&logoColor=white" alt="Explore CareerNest code"/>
 </a>
 
 </td>
@@ -121,21 +121,21 @@ My personal website showcasing my skills, projects, and development journey.
 <td width="50%" valign="top">
 
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="./assets/cloud-projects.png" width="100%" alt="Cloud and other projects"/>
+<img src="./assets/cloud-projects.png" width="100%" alt="Cloud computing project"/>
 </a>
 
-<h3>☁️ Cloud & Other Projects</h3>
+<h3>☁️ Cloud Computing Case Study</h3>
 
-Academic and personal projects in cloud computing, Python, and Java.
+A case study exploring cloud security and cybersecurity concepts through Cosmos Bank.
 
-- Cloud computing case study
-- Python music player
-- Java development projects
+- Cloud security analysis
+- Cyberattack case study
+- Cloud computing concepts
 
-**Stack:** Python • Java • Cloud Computing
+**Stack:** Cloud Computing • Cybersecurity
 
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-161616?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_CASE_STUDY-161616?style=for-the-badge&logo=github&logoColor=white" alt="Explore cloud case study"/>
 </a>
 
 </td>
