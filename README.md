@@ -1,14 +1,17 @@
 
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Ayanokoji themed banner"/>
 
-  # CHAITANYA MULEY
-  ### `COMPUTER ENGINEERING STUDENT` • `DEVELOPER IN TRAINING`
+<img src="./assets/banner.png" width="100%" alt="Classroom of the Elite themed banner"/>
 
-  **"Observe. Learn. Build. Improve."**
+# CHAITANYA MULEY
 
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-161616?style=for-the-badge&logo=github)](https://github.com/chaitanya-720)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chaitanya-720.github.io/)
+### `COMPUTER ENGINEERING STUDENT` • `DEVELOPER IN TRAINING`
+
+**"Observe. Learn. Build. Improve."**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-161616?style=for-the-badge&logo=github)](https://github.com/chaitanya-720)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chaitanya-720.github.io/)
+
 </div>
 
 ---
@@ -55,7 +58,11 @@ Hi! I'm **Chaitanya Muley**, a Diploma Computer Engineering student at Governmen
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 NeuroDrive
+<a href="https://github.com/yash4278-svg/Capstone-Project">
+<img src="./assets/about.png" width="100%" alt="NeuroDrive project thumbnail"/>
+</a>
+
+<h3>🚗 NeuroDrive</h3>
 
 Driver drowsiness detection and fleet safety monitoring.
 
@@ -63,12 +70,20 @@ Driver drowsiness detection and fleet safety monitoring.
 - Blink and yawn analysis
 - Safety alerts and trip history
 
-**Focus:** Android • Java • ML Kit • IoT
+**Stack:** Android • Java • ML Kit • IoT
+
+<a href="https://github.com/yash4278-svg/Capstone-Project">
+<img src="https://img.shields.io/badge/VIEW_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="View NeuroDrive code"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 CareerNest
+<a href="https://github.com/chaitanya-720?tab=repositories">
+<img src="./assets/kei.png" width="100%" alt="CareerNest project thumbnail"/>
+</a>
+
+<h3>🎯 CareerNest</h3>
 
 An Android career guidance application for students.
 
@@ -76,31 +91,51 @@ An Android career guidance application for students.
 - Learning roadmaps
 - Career quizzes and saved careers
 
-**Focus:** Java • Android Studio
+**Stack:** Java • Android Studio
+
+<a href="https://github.com/chaitanya-720?tab=repositories">
+<img src="https://img.shields.io/badge/FIND_REPOSITORY-161616?style=for-the-badge&logo=github&logoColor=white" alt="Find CareerNest repository"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Developer Portfolio
+<a href="https://chaitanya-720.github.io/">
+<img src="./assets/horikita.png" width="100%" alt="Developer portfolio thumbnail"/>
+</a>
 
-My personal website showcasing my development journey and work.
+<h3>🌐 Developer Portfolio</h3>
 
-**Focus:** React • TypeScript • Vite • Tailwind CSS
+My personal website showcasing my development journey, skills, and projects.
 
-[Visit Portfolio →](https://chaitanya-720.github.io/)
+**Stack:** React • TypeScript • Vite • Tailwind CSS
+
+<a href="https://chaitanya-720.github.io/">
+<img src="https://img.shields.io/badge/VISIT_WEBSITE-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Other Projects
+<a href="https://github.com/chaitanya-720?tab=repositories">
+<img src="./assets/ryuen.png" width="100%" alt="Cloud and other projects thumbnail"/>
+</a>
 
-Exploring cloud computing, Python applications, and Java development through academic and personal projects.
+<h3>☁️ Cloud & Other Projects</h3>
 
-**Focus:** Python • Java • Cloud Computing
+Academic and personal projects in cloud computing, Python, and Java.
 
-[Explore Repositories →](https://github.com/chaitanya-720?tab=repositories)
+- Cloud computing case study
+- Python music player
+- Java development projects
+
+**Stack:** Python • Java • Cloud Computing
+
+<a href="https://github.com/chaitanya-720?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-161616?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 </td>
 </tr>
@@ -112,12 +147,9 @@ Exploring cloud computing, Python applications, and Java development through aca
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=chaitanya-720&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B5C&icon_color=FF3B5C&text_color=FFFFFF" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitanya-720&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3B5C&icon_color=FF3B5C&text_color=FFFFFF" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chaitanya-720&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=FFFFFF" alt="Most used programming languages"/>
-
-</div>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-720&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=FFFFFF" alt="Most used programming languages"/>
 
 ### CONTRIBUTION ACTIVITY
 
@@ -136,26 +168,42 @@ Exploring cloud computing, Python applications, and Java development through aca
 <table>
 <tr>
 <td align="center" width="50%">
+
 <img src="./assets/horikita.png" width="100%" alt="Horikita Suzune"/>
-<br/><b>HORIKITA SUZUNE</b>
-<br/><sub>Discipline • Determination</sub>
+
+**HORIKITA SUZUNE**
+
+<sub>Discipline • Determination</sub>
+
 </td>
 <td align="center" width="50%">
+
 <img src="./assets/kei.png" width="100%" alt="Kei Karuizawa"/>
-<br/><b>KEI KARUIZAWA</b>
-<br/><sub>Trust • Growth</sub>
+
+**KEI KARUIZAWA**
+
+<sub>Trust • Growth</sub>
+
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
+
 <img src="./assets/ryuen.png" width="100%" alt="Ryuen Kakeru"/>
-<br/><b>RYUEN KAKERU</b>
-<br/><sub>Strategy • Fearlessness</sub>
+
+**RYUEN KAKERU**
+
+<sub>Strategy • Fearlessness</sub>
+
 </td>
 <td align="center" width="50%">
+
 <img src="./assets/sakayanagi.png" width="100%" alt="Sakayanagi Arisu"/>
-<br/><b>SAKAYANAGI ARISU</b>
-<br/><sub>Intelligence • Precision</sub>
+
+**SAKAYANAGI ARISU**
+
+<sub>Intelligence • Precision</sub>
+
 </td>
 </tr>
 </table>
