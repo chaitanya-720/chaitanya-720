@@ -54,12 +54,13 @@ Hi! I'm **Chaitanya Muley**, a Diploma Computer Engineering student at Governmen
 
 ## `03` — FEATURED PROJECTS
 
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/yash4278-svg/Capstone-Project">
-<img src="./assets/about.png" width="100%" alt="NeuroDrive project thumbnail"/>
+<img src="./assets/neurodrive.png" width="100%" alt="NeuroDrive project"/>
 </a>
 
 <h3>🚗 NeuroDrive</h3>
@@ -70,17 +71,17 @@ Driver drowsiness detection and fleet safety monitoring.
 - Blink and yawn analysis
 - Safety alerts and trip history
 
-**Stack:** Android • Java • ML Kit • IoT
+**Stack:** Java • Android • ML Kit • IoT
 
 <a href="https://github.com/yash4278-svg/Capstone-Project">
-<img src="https://img.shields.io/badge/VIEW_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="View NeuroDrive code"/>
+<img src="https://img.shields.io/badge/VIEW_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="View code"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="./assets/kei.png" width="100%" alt="CareerNest project thumbnail"/>
+<img src="./assets/careernest.png" width="100%" alt="CareerNest project"/>
 </a>
 
 <h3>🎯 CareerNest</h3>
@@ -94,7 +95,7 @@ An Android career guidance application for students.
 **Stack:** Java • Android Studio
 
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="https://img.shields.io/badge/FIND_REPOSITORY-161616?style=for-the-badge&logo=github&logoColor=white" alt="Find CareerNest repository"/>
+<img src="https://img.shields.io/badge/FIND_REPOSITORY-161616?style=for-the-badge&logo=github&logoColor=white" alt="Find repository"/>
 </a>
 
 </td>
@@ -103,12 +104,12 @@ An Android career guidance application for students.
 <td width="50%" valign="top">
 
 <a href="https://chaitanya-720.github.io/">
-<img src="./assets/horikita.png" width="100%" alt="Developer portfolio thumbnail"/>
+<img src="./assets/portfolio.png" width="100%" alt="Developer portfolio"/>
 </a>
 
 <h3>🌐 Developer Portfolio</h3>
 
-My personal website showcasing my development journey, skills, and projects.
+My personal website showcasing my skills, projects, and development journey.
 
 **Stack:** React • TypeScript • Vite • Tailwind CSS
 
@@ -120,7 +121,7 @@ My personal website showcasing my development journey, skills, and projects.
 <td width="50%" valign="top">
 
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="./assets/ryuen.png" width="100%" alt="Cloud and other projects thumbnail"/>
+<img src="./assets/cloud-projects.png" width="100%" alt="Cloud and other projects"/>
 </a>
 
 <h3>☁️ Cloud & Other Projects</h3>
@@ -134,7 +135,7 @@ Academic and personal projects in cloud computing, Python, and Java.
 **Stack:** Python • Java • Cloud Computing
 
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-161616?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-161616?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 
 </td>
