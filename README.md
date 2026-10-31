@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="./assets/banner.png" width="100%" alt="Classroom of the Elite themed banner"/>
 
@@ -9,7 +8,7 @@
 
 **"Observe. Learn. Build. Improve."**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-161616?style=for-the-badge&logo=github)](https://github.com/chaitanya-720)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chaitanya-720.github.io/)
 
 </div>
@@ -18,13 +17,13 @@
 
 ## `01` — ABOUT ME
 
-<img align="right" src="./assets/about.png" width="35%" alt="Ayanokoji portrait"/>
+<img align="right" src="./assets/about.png" width="32%" alt="Classroom of the Elite inspired artwork"/>
 
 Hi! I'm **Chaitanya Muley**, a Diploma Computer Engineering student at Government Polytechnic Pune.
 
 - 💻 Interested in software and full-stack development.
 - 🌱 Learning by building practical projects.
-- 🧠 Exploring Android, cloud computing, and AI/ML.
+- 🧠 Exploring Android development, cloud computing, and AI/ML.
 - 🎯 Working toward a software development internship.
 - ⚡ I enjoy games, technology, and learning new things.
 
@@ -46,12 +45,13 @@ Hi! I'm **Chaitanya Muley**, a Diploma Computer Engineering student at Governmen
 ![React](https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-161616?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161616?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
-
 
 ## `03` — FEATURED PROJECTS
 
@@ -59,84 +59,115 @@ Hi! I'm **Chaitanya Muley**, a Diploma Computer Engineering student at Governmen
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="./assets/neurodrive.png" width="100%" alt="Bomberman Java game"/>
+<img src="./assets/bomberman.png" width="100%" alt="Bomberman Java game"/>
 </a>
 
-<h3>🎮 Bomberman</h3>
+### 🎮 Bomberman
 
-A Java game project focused on gameplay mechanics and object-oriented programming.
+</div>
+
+A Java game project demonstrating object-oriented programming and game development concepts.
 
 - Player movement and game logic
 - Game objects and collision handling
 - Java programming practice
 
-**Stack:** Java • OOP
+**Tech Stack:** Java • OOP
 
-<a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Explore Bomberman code"/>
-</a>
+<div align="center">
+
+[![Explore Code](https://img.shields.io/badge/EXPLORE_CODE-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720?tab=repositories)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="./assets/careernest.png" width="100%" alt="CareerNest project"/>
+<img src="./assets/careernest.png" width="100%" alt="CareerNest career guidance application"/>
 </a>
 
-<h3>🎯 CareerNest</h3>
+### 🎯 CareerNest
 
-An Android career guidance application for students.
+</div>
 
-- Career exploration
-- Learning roadmaps
+An Android career guidance application designed to help students explore career opportunities and plan their learning journey.
+
+- Career exploration and details
+- Career roadmaps and learning goals
 - Career quizzes and saved careers
+- Dark mode support
 
-**Stack:** Java • Android Studio
+**Tech Stack:** Java • Android Studio
 
-<a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_CODE-161616?style=for-the-badge&logo=github&logoColor=white" alt="Explore CareerNest code"/>
-</a>
+<div align="center">
+
+[![Explore Code](https://img.shields.io/badge/EXPLORE_CODE-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720?tab=repositories)
+
+</div>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://chaitanya-720.github.io/">
-<img src="./assets/portfolio.png" width="100%" alt="Developer portfolio"/>
-</a>
-
-<h3>🌐 Developer Portfolio</h3>
-
-My personal website showcasing my skills, projects, and development journey.
-
-**Stack:** React • TypeScript • Vite • Tailwind CSS
+<div align="center">
 
 <a href="https://chaitanya-720.github.io/">
-<img src="https://img.shields.io/badge/VISIT_WEBSITE-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/>
+<img src="./assets/portfolio.png" width="100%" alt="Developer portfolio website"/>
 </a>
+
+### 🌐 Developer Portfolio
+
+</div>
+
+My personal portfolio website showcasing my projects, technical skills, and development journey.
+
+- Responsive portfolio design
+- Project showcase
+- Personal developer profile
+
+**Tech Stack:** React • TypeScript • Vite • Tailwind CSS
+
+<div align="center">
+
+[![Visit Website](https://img.shields.io/badge/VISIT_WEBSITE-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chaitanya-720.github.io/)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720/chaitanya-720.github.io)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 <a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="./assets/cloud-projects.png" width="100%" alt="Cloud computing project"/>
+<img src="./assets/cloud-projects.png" width="100%" alt="Cloud computing and Cosmos Bank case study"/>
 </a>
 
-<h3>☁️ Cloud Computing Case Study</h3>
+### ☁️ Cloud Computing Case Study
 
-A case study exploring cloud security and cybersecurity concepts through Cosmos Bank.
+</div>
 
-- Cloud security analysis
-- Cyberattack case study
+A Cosmos Bank case study exploring cloud computing concepts and cybersecurity considerations in the banking sector.
+
 - Cloud computing concepts
+- Cyberattack analysis
+- Cloud security considerations
 
-**Stack:** Cloud Computing • Cybersecurity
+**Tech Stack:** Cloud Computing • Cybersecurity
 
-<a href="https://github.com/chaitanya-720?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_CASE_STUDY-161616?style=for-the-badge&logo=github&logoColor=white" alt="Explore cloud case study"/>
-</a>
+<div align="center">
+
+[![Explore Case Study](https://img.shields.io/badge/EXPLORE_CASE_STUDY-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720?tab=repositories)
+
+</div>
 
 </td>
 </tr>
@@ -160,15 +191,11 @@ A case study exploring cloud security and cybersecurity concepts through Cosmos 
 
 ---
 
-
-
----
-
 ## `05` — CONNECT
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-chaitanya--720-161616?style=for-the-badge&logo=github)](https://github.com/chaitanya-720)
+[![GitHub](https://img.shields.io/badge/GitHub-chaitanya--720-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-720)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chaitanya-720.github.io/)
 
 **Learning every day. Building one project at a time.**
