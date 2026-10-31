@@ -159,60 +159,11 @@ Academic and personal projects in cloud computing, Python, and Java.
 
 ---
 
-## `05` — CLASSROOM OF THE ELITE
 
-<div align="center">
-
-*Strategy. Intelligence. Discipline.*
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="./assets/horikita.png" width="100%" alt="Horikita Suzune"/>
-
-**HORIKITA SUZUNE**
-
-<sub>Discipline • Determination</sub>
-
-</td>
-<td align="center" width="50%">
-
-<img src="./assets/kei.png" width="100%" alt="Kei Karuizawa"/>
-
-**KEI KARUIZAWA**
-
-<sub>Trust • Growth</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<img src="./assets/ryuen.png" width="100%" alt="Ryuen Kakeru"/>
-
-**RYUEN KAKERU**
-
-<sub>Strategy • Fearlessness</sub>
-
-</td>
-<td align="center" width="50%">
-
-<img src="./assets/sakayanagi.png" width="100%" alt="Sakayanagi Arisu"/>
-
-**SAKAYANAGI ARISU**
-
-<sub>Intelligence • Precision</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
-## `06` — CONNECT
+## `05` — CONNECT
 
 <div align="center">
 
