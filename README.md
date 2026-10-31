@@ -112,9 +112,12 @@ Exploring cloud computing, Python applications, and Java development through aca
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanya-720&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B5C&icon_color=FF3B5C&text_color=FFFFFF" alt="GitHub statistics"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=chaitanya-720&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B5C&icon_color=FF3B5C&text_color=FFFFFF" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-720&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=FFFFFF" alt="Most used programming languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chaitanya-720&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B5C&text_color=FFFFFF" alt="Most used programming languages"/>
+
+</div>
+
 
 ### CONTRIBUTION ACTIVITY
 
